@@ -1,10 +1,8 @@
-# Predicting Pneumonia
+# Predicting Pneumonia with CNNs
 ## Module 4 Machine Learning Project
 
 ### Business Problem: <br/>
-I conducted an exploratory data analysis and created models to accurately predict whether or not a candidate star is a pulsar or a false positive.  <br/>
-
-For this project, I assumed the role of a Data Scientist working with a medical research firm. The goal is to train a machine learning model to classify whether a patient has pneumonia or not, given images of their chest x-rays.
+For this project, I assumed the role of a Data Scientist working with a medical research firm. The goal is to train a machine learning model to classify whether a patient has pneumonia or not, given images of their chest x-rays. I opted to use convolutional neural networks to attack this problem.  
 Pneumonia is an inflammatory infection that primarily affects small air sacks in the lungs known as alveoli. In more severe cases, these sacks may fill with fluid. Symptoms include coughing, chest pain, fever, and labored breathing. Each year, ~450 million people are infected globally and about 4 million of those die.  <br>
 
 While generally the overall goal is to build the best model possible, I will be forgoing the use of a TPU or other distributed computing system and will focus more on demonstrating my understanding of neural networks. I will be working with a downsampled dataset in this case, and look to use AWS or a Google TPU in the future to continue where this project left off.
