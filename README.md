@@ -7,6 +7,8 @@ Pneumonia is an inflammatory infection that primarily affects small air sacks in
 
 While generally the overall goal is to build the best model possible, I will be forgoing the use of a TPU or other distributed computing system and will focus more on demonstrating my understanding of neural networks. I will be working with a downsampled dataset in this case, and look to use AWS or a Google TPU in the future to continue where this project left off.
 
+The final CNN model had an accuracy of 92.3 and recall of 28.1. All analysis and modeling is present in the Predicting_Pneumonia.ipynb file.  
+
 ### Methods: 
 I used a modified version of the OSEMN data science process(Obtain, Scrub, Explore, Model, iNterpret). There were some procedural tweaks I made due to the use of deep learning rather than more traditional machine learning techniques.  
 
