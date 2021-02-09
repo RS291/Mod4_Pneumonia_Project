@@ -1,5 +1,4 @@
 # Predicting Pneumonia with CNNs
-## Module 4 Machine Learning Project
 
 ### Business Problem: <br/>
 For this project, I assumed the role of a Data Scientist working with a medical research firm. The goal is to train a machine learning model to classify whether a patient has pneumonia or not, given images of their chest x-rays. I opted to use convolutional neural networks to attack this problem.  
